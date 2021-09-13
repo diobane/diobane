@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Seja muito bem vindo(a), vossa excelência!</h1>
+  <h1>Seja muito bem vindo(a)!</h1>
 </div>
 
 <div align="center">
