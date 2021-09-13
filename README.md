@@ -57,3 +57,10 @@
 <div>
   
 ![Snake animation](https://github.com/gaonpre/gaonpre/blob/output/github-contribution-grid-snake.svg)
+
+##
+  
+<!-- ## TViews <br> -->
+<p align="center"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/gaonpre/count.svg" />
+</p>
