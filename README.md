@@ -1,16 +1,6 @@
 <div align="center">
-  <h1>Seja muito bem vindo(a)!</h1>
+  <h2>Hi!</h2>
 </div>
-
-<div align="center">
-  <img height="40px" src="https://c.tenor.com/ZfEvClq8TnkAAAAC/cat-cool.gif"/>
-  <img height="70px" src="https://c.tenor.com/ZfEvClq8TnkAAAAC/cat-cool.gif"/>
-  <img height="100px" src="https://c.tenor.com/ZfEvClq8TnkAAAAC/cat-cool.gif"/>
-  <img height="70px" src="https://c.tenor.com/ZfEvClq8TnkAAAAC/cat-cool.gif"/>
-  <img height="40px" src="https://c.tenor.com/ZfEvClq8TnkAAAAC/cat-cool.gif"/>
-</div>
-
-##
 
 <div align="center">
   <a href="https://github.com/gaonpre">
