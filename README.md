@@ -1,6 +1,6 @@
 <div>
   <h3>Hi there!</h3>
-  <p>I'm Giovanny and I've been working as a front-end developer for over 3 years. I really enjoy learning new technologies and keeping up to date with new concepts in the tech world.</p>
+  <p>I'm Giovanny and I've been working as a fullstack developer for over 4 years. I really enjoy learning new technologies and keeping up to date with new concepts in the tech world.</p>
 </div>
 
 <hr/>
